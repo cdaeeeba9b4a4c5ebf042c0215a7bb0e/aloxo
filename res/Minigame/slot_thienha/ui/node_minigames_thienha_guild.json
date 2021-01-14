@@ -1,0 +1,2618 @@
+{
+  "ID": "05f9cf48-c405-4eb1-847d-341cc9cc29af",
+  "Version": "2.3.4",
+  "Name": "node_minigames_thienha_guild",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 247,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -960.0,
+            "RightMargin": -960.0,
+            "TopMargin": -540.0,
+            "BottomMargin": -540.0,
+            "Tag": 248,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/slot_thienha/bg_popup_minigame.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 946.5561,
+                  "Y": 529.7312
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.4905
+                },
+                "PreSize": {
+                  "X": 0.4422,
+                  "Y": 0.5963
+                },
+                "LeftMargin": 522.0561,
+                "RightMargin": 548.9438,
+                "TopMargin": 228.2688,
+                "BottomMargin": 207.7312,
+                "Tag": 249,
+                "ActionTag": -2124666191,
+                "Size": {
+                  "X": 849.0,
+                  "Y": 644.0
+                },
+                "Name": "bgr_1_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "Minigame/slot_thienha/btn_quit.png",
+                  "Plist": "Minigame/slot_thienha/slot_thienha.plist"
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "Minigame/slot_thienha/btn_quit.png",
+                  "Plist": "Minigame/slot_thienha/slot_thienha.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "Minigame/slot_thienha/btn_quit.png",
+                  "Plist": "Minigame/slot_thienha/slot_thienha.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 11,
+                "Scale9Height": 19,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1373.9083,
+                  "Y": 845.934
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7156,
+                  "Y": 0.7833
+                },
+                "PreSize": {
+                  "X": 0.024,
+                  "Y": 0.0444
+                },
+                "LeftMargin": 1350.9083,
+                "RightMargin": 523.0917,
+                "TopMargin": 210.066,
+                "BottomMargin": 821.934,
+                "Tag": 250,
+                "ActionTag": 1522919079,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 48.0
+                },
+                "Name": "btnClose",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "Minigame/slot_thienha/txt_huongdan_tx.png",
+                  "Plist": "Minigame/slot_thienha/slot_thienha.plist"
+                },
+                "Scale9OriginX": 99,
+                "Scale9OriginY": 15,
+                "Scale9Width": 105,
+                "Scale9Height": 17,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 940.5356,
+                  "Y": 803.6124
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4899,
+                  "Y": 0.7441
+                },
+                "PreSize": {
+                  "X": 0.1578,
+                  "Y": 0.0435
+                },
+                "LeftMargin": 789.0356,
+                "RightMargin": 827.9644,
+                "TopMargin": 252.8876,
+                "BottomMargin": 780.1124,
+                "Tag": 592,
+                "ActionTag": -1110126637,
+                "Size": {
+                  "X": 303.0,
+                  "Y": 47.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsBounceEnabled": true,
+                "InnerNodeSize": {
+                  "Width": 727,
+                  "Height": 664
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 98,
+                  "G": 101,
+                  "B": 121
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": -239,
+                "Scale9OriginY": -158,
+                "Scale9Width": 478,
+                "Scale9Height": 316,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 950.2877,
+                  "Y": 750.608
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4949,
+                  "Y": 0.695
+                },
+                "PreSize": {
+                  "X": 0.3786,
+                  "Y": 0.4694
+                },
+                "LeftMargin": 586.7877,
+                "RightMargin": 606.2123,
+                "TopMargin": 329.392,
+                "BottomMargin": 243.608,
+                "Tag": 252,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "Slot Mèo Thần Tài là game thuộc thể lại slot đơn giản dễ chơi, dễ trúng. Với 6 item được sắp xếp thành 3 hàng, 3 cột tạo thành 27 tổ hợp và trả thưởng theo 27 tổ hợp đó",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Bold.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.0244,
+                      "Y": 612.8834
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0537,
+                      "Y": 0.923
+                    },
+                    "PreSize": {
+                      "X": 0.8831,
+                      "Y": 0.0813
+                    },
+                    "LeftMargin": 39.0244,
+                    "RightMargin": 45.9756,
+                    "TopMargin": 24.1166,
+                    "BottomMargin": 585.8834,
+                    "Tag": 253,
+                    "ActionTag": -437241553,
+                    "Size": {
+                      "X": 642.0,
+                      "Y": 54.0
+                    },
+                    "Name": "Text_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 38.6481,
+                      "Y": 515.3866
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0532,
+                      "Y": 0.7762
+                    },
+                    "PreSize": {
+                      "X": 0.8817,
+                      "Y": 0.0602
+                    },
+                    "LeftMargin": 38.6481,
+                    "RightMargin": 47.3519,
+                    "TopMargin": 148.6134,
+                    "BottomMargin": 475.3866,
+                    "Tag": 255,
+                    "ActionTag": 423213820,
+                    "Size": {
+                      "X": 641.0,
+                      "Y": 40.0
+                    },
+                    "Name": "Panel_1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 38.6481,
+                      "Y": 436.3863
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0532,
+                      "Y": 0.6572
+                    },
+                    "PreSize": {
+                      "X": 0.8817,
+                      "Y": 0.0602
+                    },
+                    "LeftMargin": 38.6481,
+                    "RightMargin": 47.3519,
+                    "TopMargin": 227.6137,
+                    "BottomMargin": 396.3863,
+                    "Tag": 256,
+                    "ActionTag": 491237233,
+                    "Size": {
+                      "X": 641.0,
+                      "Y": 40.0
+                    },
+                    "Name": "Panel_2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemJackpot.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 148.7924,
+                      "Y": 492.7602
+                    },
+                    "Scale": {
+                      "ScaleX": 0.47,
+                      "ScaleY": 0.47
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2047,
+                      "Y": 0.7421
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 103.2924,
+                    "RightMargin": 532.7076,
+                    "TopMargin": 129.7399,
+                    "BottomMargin": 451.2602,
+                    "Tag": 263,
+                    "ActionTag": 1498593441,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemJackpot.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 193.7924,
+                      "Y": 492.7602
+                    },
+                    "Scale": {
+                      "ScaleX": 0.47,
+                      "ScaleY": 0.47
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2666,
+                      "Y": 0.7421
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 148.2924,
+                    "RightMargin": 487.7076,
+                    "TopMargin": 129.7399,
+                    "BottomMargin": 451.2602,
+                    "Tag": 264,
+                    "ActionTag": 2015572681,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemJackpot.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 236.9854,
+                      "Y": 492.7602
+                    },
+                    "Scale": {
+                      "ScaleX": 0.47,
+                      "ScaleY": 0.47
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.326,
+                      "Y": 0.7421
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 191.4854,
+                    "RightMargin": 444.5146,
+                    "TopMargin": 129.7399,
+                    "BottomMargin": 451.2602,
+                    "Tag": 265,
+                    "ActionTag": 1107573774,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/item3.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 148.7932,
+                      "Y": 413.7626
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2047,
+                      "Y": 0.6231
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 103.2932,
+                    "RightMargin": 532.7068,
+                    "TopMargin": 208.7374,
+                    "BottomMargin": 372.2626,
+                    "Tag": 266,
+                    "ActionTag": 626123086,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/item3.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 193.7955,
+                      "Y": 413.7626
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2666,
+                      "Y": 0.6231
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 148.2955,
+                    "RightMargin": 487.7045,
+                    "TopMargin": 208.7374,
+                    "BottomMargin": 372.2626,
+                    "Tag": 267,
+                    "ActionTag": -12605184,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_0_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/item3.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 238.7966,
+                      "Y": 413.7626
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3285,
+                      "Y": 0.6231
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 193.2966,
+                    "RightMargin": 442.7034,
+                    "TopMargin": 208.7374,
+                    "BottomMargin": 372.2626,
+                    "Tag": 268,
+                    "ActionTag": 659211829,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_0_0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/item4.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 148.7932,
+                      "Y": 453.7632
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2047,
+                      "Y": 0.6834
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 103.2932,
+                    "RightMargin": 532.7068,
+                    "TopMargin": 168.7368,
+                    "BottomMargin": 412.2632,
+                    "Tag": 269,
+                    "ActionTag": 504935051,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_1_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/item4.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 193.7955,
+                      "Y": 453.7632
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2666,
+                      "Y": 0.6834
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 148.2955,
+                    "RightMargin": 487.7045,
+                    "TopMargin": 168.7368,
+                    "BottomMargin": 412.2632,
+                    "Tag": 270,
+                    "ActionTag": -895364051,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_0_1_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/item4.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 238.7966,
+                      "Y": 453.7632
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3285,
+                      "Y": 0.6834
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 193.2966,
+                    "RightMargin": 442.7034,
+                    "TopMargin": 168.7368,
+                    "BottomMargin": 412.2632,
+                    "Tag": 271,
+                    "ActionTag": 206089186,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_0_0_0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemJackpot.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 101.7916,
+                      "Y": 532.7612
+                    },
+                    "Scale": {
+                      "ScaleX": 0.47,
+                      "ScaleY": 0.47
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.14,
+                      "Y": 0.8024
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 56.2916,
+                    "RightMargin": 579.7084,
+                    "TopMargin": 89.7388,
+                    "BottomMargin": 491.2612,
+                    "Tag": 272,
+                    "ActionTag": -1861631059,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_1_0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemJackpot.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 146.7916,
+                      "Y": 532.7612
+                    },
+                    "Scale": {
+                      "ScaleX": 0.47,
+                      "ScaleY": 0.47
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2019,
+                      "Y": 0.8024
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 101.2916,
+                    "RightMargin": 534.7084,
+                    "TopMargin": 89.7388,
+                    "BottomMargin": 491.2612,
+                    "Tag": 273,
+                    "ActionTag": -785091316,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_0_1_0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemJackpot.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 191.791,
+                      "Y": 532.7612
+                    },
+                    "Scale": {
+                      "ScaleX": 0.47,
+                      "ScaleY": 0.47
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2638,
+                      "Y": 0.8024
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 146.291,
+                    "RightMargin": 489.709,
+                    "TopMargin": 89.7388,
+                    "BottomMargin": 491.2612,
+                    "Tag": 274,
+                    "ActionTag": 1456895564,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_0_0_0_0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/item2.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 148.7969,
+                      "Y": 373.7607
+                    },
+                    "Scale": {
+                      "ScaleX": 0.49,
+                      "ScaleY": 0.49
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2047,
+                      "Y": 0.5629
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 103.2969,
+                    "RightMargin": 532.7031,
+                    "TopMargin": 248.7393,
+                    "BottomMargin": 332.2607,
+                    "Tag": 275,
+                    "ActionTag": 3966689,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_1_0_0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/item2.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 193.7969,
+                      "Y": 373.7607
+                    },
+                    "Scale": {
+                      "ScaleX": 0.49,
+                      "ScaleY": 0.49
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2666,
+                      "Y": 0.5629
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 148.2969,
+                    "RightMargin": 487.7031,
+                    "TopMargin": 248.7393,
+                    "BottomMargin": 332.2607,
+                    "Tag": 276,
+                    "ActionTag": -190888444,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_0_1_0_0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/item2.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 238.7968,
+                      "Y": 373.7607
+                    },
+                    "Scale": {
+                      "ScaleX": 0.49,
+                      "ScaleY": 0.49
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3285,
+                      "Y": 0.5629
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 193.2968,
+                    "RightMargin": 442.7032,
+                    "TopMargin": 248.7393,
+                    "BottomMargin": 332.2607,
+                    "Tag": 277,
+                    "ActionTag": -2047075603,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Sprite_12_0_0_0_0_0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "X0.1 lần",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 519.7964,
+                      "Y": 371.7608
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.715,
+                      "Y": 0.5599
+                    },
+                    "PreSize": {
+                      "X": 0.0949,
+                      "Y": 0.0286
+                    },
+                    "LeftMargin": 485.2964,
+                    "RightMargin": 172.7036,
+                    "TopMargin": 282.7392,
+                    "BottomMargin": 362.2608,
+                    "Tag": 288,
+                    "ActionTag": 2062725947,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_3_1_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "X0.3 lần",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 519.7964,
+                      "Y": 411.7633
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.715,
+                      "Y": 0.6201
+                    },
+                    "PreSize": {
+                      "X": 0.0949,
+                      "Y": 0.0286
+                    },
+                    "LeftMargin": 485.2964,
+                    "RightMargin": 172.7036,
+                    "TopMargin": 242.7367,
+                    "BottomMargin": 402.2633,
+                    "Tag": 289,
+                    "ActionTag": 147665106,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_3_1_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "X1 lần",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 519.8003,
+                      "Y": 451.7632
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.715,
+                      "Y": 0.6804
+                    },
+                    "PreSize": {
+                      "X": 0.0798,
+                      "Y": 0.0286
+                    },
+                    "LeftMargin": 490.8003,
+                    "RightMargin": 178.1997,
+                    "TopMargin": 202.7368,
+                    "BottomMargin": 442.2632,
+                    "Tag": 290,
+                    "ActionTag": -1903691445,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_3_1_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "X10 lần",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 519.8003,
+                      "Y": 493.7643
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.715,
+                      "Y": 0.7436
+                    },
+                    "PreSize": {
+                      "X": 0.0798,
+                      "Y": 0.0286
+                    },
+                    "LeftMargin": 490.8003,
+                    "RightMargin": 178.1997,
+                    "TopMargin": 160.7357,
+                    "BottomMargin": 484.2643,
+                    "Tag": 291,
+                    "ActionTag": -322898257,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_3_1_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "Nổ hũ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 519.8003,
+                      "Y": 534.7636
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.715,
+                      "Y": 0.8054
+                    },
+                    "PreSize": {
+                      "X": 0.0798,
+                      "Y": 0.0286
+                    },
+                    "LeftMargin": 490.8003,
+                    "RightMargin": 178.1997,
+                    "TopMargin": 119.7364,
+                    "BottomMargin": 525.2636,
+                    "Tag": 292,
+                    "ActionTag": 1373799312,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_3_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/vach.png",
+                      "Plist": "Minigame/slot_thienha/slot_thienha.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 38.7921,
+                      "Y": 587.2618
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.65
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0534,
+                      "Y": 0.8844
+                    },
+                    "PreSize": {
+                      "X": 0.0014,
+                      "Y": 0.5377
+                    },
+                    "LeftMargin": 38.7921,
+                    "RightMargin": 687.2079,
+                    "TopMargin": 76.7382,
+                    "BottomMargin": 230.2618,
+                    "Tag": 293,
+                    "ActionTag": -1914361483,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 357.0
+                    },
+                    "Name": "Sprite_3_1_1_0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/vach.png",
+                      "Plist": "Minigame/slot_thienha/slot_thienha.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 358.7946,
+                      "Y": 556.2562
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.54
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4935,
+                      "Y": 0.8377
+                    },
+                    "PreSize": {
+                      "X": 0.0014,
+                      "Y": 0.5377
+                    },
+                    "LeftMargin": 358.7946,
+                    "RightMargin": 367.2054,
+                    "TopMargin": 107.7438,
+                    "BottomMargin": 199.2562,
+                    "Tag": 294,
+                    "ActionTag": -1022534273,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 357.0
+                    },
+                    "Name": "Sprite_3_1_1_0_0_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/vach.png",
+                      "Plist": "Minigame/slot_thienha/slot_thienha.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 677.796,
+                      "Y": 587.2618
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.65
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9323,
+                      "Y": 0.8844
+                    },
+                    "PreSize": {
+                      "X": 0.0014,
+                      "Y": 0.5377
+                    },
+                    "LeftMargin": 677.796,
+                    "RightMargin": 48.204,
+                    "TopMargin": 76.7382,
+                    "BottomMargin": 230.2618,
+                    "Tag": 295,
+                    "ActionTag": -1657511193,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 357.0
+                    },
+                    "Name": "Sprite_3_1_1_0_0_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "B": 0
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 39.7922,
+                      "Y": 553.7603
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0547,
+                      "Y": 0.834
+                    },
+                    "PreSize": {
+                      "X": 0.879,
+                      "Y": 0.0527
+                    },
+                    "LeftMargin": 39.7922,
+                    "RightMargin": 48.2078,
+                    "TopMargin": 75.2397,
+                    "BottomMargin": 553.7603,
+                    "Tag": 304,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "HÌNH ẢNH TỈ LỆ NHÂN",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 110.0,
+                          "Y": 16.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1721,
+                          "Y": 0.4571
+                        },
+                        "PreSize": {
+                          "X": 0.687,
+                          "Y": 0.6571
+                        },
+                        "LeftMargin": 110.0,
+                        "RightMargin": 90.0,
+                        "TopMargin": 7.5,
+                        "BottomMargin": 4.5,
+                        "Tag": 305,
+                        "ActionTag": -43162159,
+                        "Size": {
+                          "X": 439.0,
+                          "Y": 23.0
+                        },
+                        "Name": "Text_13",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -526453565,
+                    "Size": {
+                      "X": 639.0,
+                      "Y": 35.0
+                    },
+                    "Name": "pn_title",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemX10.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 254.3981,
+                      "Y": 535.7603
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3499,
+                      "Y": 0.8069
+                    },
+                    "PreSize": {
+                      "X": 0.0853,
+                      "Y": 0.0813
+                    },
+                    "LeftMargin": 223.3981,
+                    "RightMargin": 441.6019,
+                    "TopMargin": 101.2397,
+                    "BottomMargin": 508.7603,
+                    "Tag": 334,
+                    "ActionTag": -1354845285,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 54.0
+                    },
+                    "Name": "Sprite_12_0_0_0_0_0_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemX10.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 299.8278,
+                      "Y": 535.7603
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4124,
+                      "Y": 0.8069
+                    },
+                    "PreSize": {
+                      "X": 0.0853,
+                      "Y": 0.0813
+                    },
+                    "LeftMargin": 268.8278,
+                    "RightMargin": 396.1722,
+                    "TopMargin": 101.2397,
+                    "BottomMargin": 508.7603,
+                    "Tag": 335,
+                    "ActionTag": -1442275712,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 54.0
+                    },
+                    "Name": "Sprite_12_0_0_0_0_0_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/vach.png",
+                      "Plist": "Minigame/slot_thienha/slot_thienha.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 678.7964,
+                      "Y": 353.7604
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.79
+                    },
+                    "RotationSkewX": 90.0,
+                    "RotationSkewY": 90.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9337,
+                      "Y": 0.5328
+                    },
+                    "PreSize": {
+                      "X": 0.0014,
+                      "Y": 0.5377
+                    },
+                    "LeftMargin": 678.7964,
+                    "RightMargin": 47.2036,
+                    "TopMargin": 310.2396,
+                    "BottomMargin": -3.2396,
+                    "Tag": 223,
+                    "ActionTag": 946305254,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 357.0
+                    },
+                    "Name": "Sprite_3_1_1_0_0_1_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "Biểu tượng Wild có thể thay thế được cho tất cả các biểu tượng khác trừ biểu tượng",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.573,
+                      "Y": 309.3883
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0544,
+                      "Y": 0.4659
+                    },
+                    "PreSize": {
+                      "X": 0.8831,
+                      "Y": 0.0271
+                    },
+                    "LeftMargin": 39.573,
+                    "RightMargin": 45.427,
+                    "TopMargin": 345.6117,
+                    "BottomMargin": 300.3883,
+                    "Tag": 306,
+                    "ActionTag": -454906305,
+                    "Size": {
+                      "X": 642.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_3_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "Cột 4 và 5 bao gồm các hệ số nhân theo quy tắc sau:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.573,
+                      "Y": 274.7277
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0544,
+                      "Y": 0.4137
+                    },
+                    "PreSize": {
+                      "X": 0.8831,
+                      "Y": 0.0407
+                    },
+                    "LeftMargin": 39.573,
+                    "RightMargin": 45.427,
+                    "TopMargin": 375.7723,
+                    "BottomMargin": 261.2277,
+                    "Tag": 326,
+                    "ActionTag": 1277078989,
+                    "Size": {
+                      "X": 642.0,
+                      "Y": 27.0
+                    },
+                    "Name": "Text_3_1_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "Bước 1: Chọn mức cược.\nBước 2: Chọn quay hoặc tự động quay.\nBước 3: Đợi hiển thị kết quả.",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.573,
+                      "Y": 58.4837
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 8,
+                      "B": 15
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0544,
+                      "Y": 0.0881
+                    },
+                    "PreSize": {
+                      "X": 0.8831,
+                      "Y": 0.0843
+                    },
+                    "LeftMargin": 39.573,
+                    "RightMargin": 45.427,
+                    "TopMargin": 577.5163,
+                    "BottomMargin": 30.4837,
+                    "Tag": 329,
+                    "ActionTag": -135880242,
+                    "Size": {
+                      "X": 642.0,
+                      "Y": 56.0
+                    },
+                    "Name": "Text_3_0_0_0_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "- Nếu 2 biểu tượng số nhân liên tiếp thì sẽ bằng tích 2 số.",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.573,
+                      "Y": 250.7278
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0544,
+                      "Y": 0.3776
+                    },
+                    "PreSize": {
+                      "X": 0.8831,
+                      "Y": 0.0407
+                    },
+                    "LeftMargin": 39.573,
+                    "RightMargin": 45.427,
+                    "TopMargin": 399.7722,
+                    "BottomMargin": 237.2278,
+                    "Tag": 225,
+                    "ActionTag": -1049630651,
+                    "Size": {
+                      "X": 642.0,
+                      "Y": 27.0
+                    },
+                    "Name": "Text_3_1_0_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "Trong đó biểu tượng Ngôi sao Xám là X1.",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.573,
+                      "Y": 223.7281
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0544,
+                      "Y": 0.3369
+                    },
+                    "PreSize": {
+                      "X": 0.8831,
+                      "Y": 0.0407
+                    },
+                    "LeftMargin": 39.573,
+                    "RightMargin": 45.427,
+                    "TopMargin": 426.7719,
+                    "BottomMargin": 210.2281,
+                    "Tag": 226,
+                    "ActionTag": 824908729,
+                    "Size": {
+                      "X": 642.0,
+                      "Y": 27.0
+                    },
+                    "Name": "Text_3_1_0_0_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemJackpot.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 647.1989,
+                      "Y": 308.5128
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8902,
+                      "Y": 0.4646
+                    },
+                    "PreSize": {
+                      "X": 0.1252,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 601.6989,
+                    "RightMargin": 34.3011,
+                    "TopMargin": 313.9872,
+                    "BottomMargin": 267.0128,
+                    "Tag": 224,
+                    "ActionTag": 657614644,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 83.0
+                    },
+                    "Name": "itemJackpot_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "VD:                  +                    =                    +                   =    X30",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.573,
+                      "Y": 193.5108
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0544,
+                      "Y": 0.2914
+                    },
+                    "PreSize": {
+                      "X": 0.8831,
+                      "Y": 0.0407
+                    },
+                    "LeftMargin": 39.573,
+                    "RightMargin": 45.427,
+                    "TopMargin": 456.9892,
+                    "BottomMargin": 180.0108,
+                    "Tag": 227,
+                    "ActionTag": -1445156548,
+                    "Size": {
+                      "X": 642.0,
+                      "Y": 27.0
+                    },
+                    "Name": "Text_3_1_0_0_0_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemX3.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 99.2367,
+                      "Y": 198.4946
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1365,
+                      "Y": 0.2989
+                    },
+                    "PreSize": {
+                      "X": 0.0853,
+                      "Y": 0.0813
+                    },
+                    "LeftMargin": 68.2367,
+                    "RightMargin": 596.7633,
+                    "TopMargin": 438.5054,
+                    "BottomMargin": 171.4946,
+                    "Tag": 228,
+                    "ActionTag": 1706320994,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 54.0
+                    },
+                    "Name": "itemJackpot_2_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemX10.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 186.6722,
+                      "Y": 198.4946
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2568,
+                      "Y": 0.2989
+                    },
+                    "PreSize": {
+                      "X": 0.0853,
+                      "Y": 0.0813
+                    },
+                    "LeftMargin": 155.6722,
+                    "RightMargin": 509.3278,
+                    "TopMargin": 438.5054,
+                    "BottomMargin": 171.4946,
+                    "Tag": 229,
+                    "ActionTag": 1321402141,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 54.0
+                    },
+                    "Name": "itemJackpot_2_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemX10.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 274.0953,
+                      "Y": 198.4946
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.377,
+                      "Y": 0.2989
+                    },
+                    "PreSize": {
+                      "X": 0.0853,
+                      "Y": 0.0813
+                    },
+                    "LeftMargin": 243.0953,
+                    "RightMargin": 421.9047,
+                    "TopMargin": 438.5054,
+                    "BottomMargin": 171.4946,
+                    "Tag": 230,
+                    "ActionTag": -2144113591,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 54.0
+                    },
+                    "Name": "itemJackpot_2_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemX3.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 361.5247,
+                      "Y": 198.4946
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4973,
+                      "Y": 0.2989
+                    },
+                    "PreSize": {
+                      "X": 0.0853,
+                      "Y": 0.0813
+                    },
+                    "LeftMargin": 330.5247,
+                    "RightMargin": 334.4753,
+                    "TopMargin": 438.5054,
+                    "BottomMargin": 171.4946,
+                    "Tag": 231,
+                    "ActionTag": -234039692,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 54.0
+                    },
+                    "Name": "itemJackpot_2_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "- Trường hợp đặc biệt Ngôi sao xám đứng trước thì mặc định tỷ lệ nhân X1.",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.573,
+                      "Y": 165.9305
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0544,
+                      "Y": 0.2499
+                    },
+                    "PreSize": {
+                      "X": 0.8831,
+                      "Y": 0.0407
+                    },
+                    "LeftMargin": 39.573,
+                    "RightMargin": 45.427,
+                    "TopMargin": 484.5695,
+                    "BottomMargin": 152.4305,
+                    "Tag": 232,
+                    "ActionTag": 1783680205,
+                    "Size": {
+                      "X": 642.0,
+                      "Y": 27.0
+                    },
+                    "Name": "Text_3_1_0_0_0_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "VD:                  +                   =   X1",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.573,
+                      "Y": 136.5586
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0544,
+                      "Y": 0.2057
+                    },
+                    "PreSize": {
+                      "X": 0.8831,
+                      "Y": 0.0407
+                    },
+                    "LeftMargin": 39.573,
+                    "RightMargin": 45.427,
+                    "TopMargin": 513.9414,
+                    "BottomMargin": 123.0586,
+                    "Tag": 233,
+                    "ActionTag": -1321697698,
+                    "Size": {
+                      "X": 642.0,
+                      "Y": 27.0
+                    },
+                    "Name": "Text_3_1_0_0_0_0_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemXam.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 99.9937,
+                      "Y": 140.5625
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1375,
+                      "Y": 0.2117
+                    },
+                    "PreSize": {
+                      "X": 0.0853,
+                      "Y": 0.0813
+                    },
+                    "LeftMargin": 68.9937,
+                    "RightMargin": 596.0063,
+                    "TopMargin": 496.4375,
+                    "BottomMargin": 113.5625,
+                    "Tag": 234,
+                    "ActionTag": -804321061,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 54.0
+                    },
+                    "Name": "itemJackpot_2_3_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "Minigame/slot_thienha/item/itemX3.png",
+                      "Plist": "Minigame/slot_thienha/item/slot_thienha_item.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 185.3347,
+                      "Y": 140.5625
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2549,
+                      "Y": 0.2117
+                    },
+                    "PreSize": {
+                      "X": 0.0853,
+                      "Y": 0.0813
+                    },
+                    "LeftMargin": 154.3347,
+                    "RightMargin": 510.6653,
+                    "TopMargin": 496.4375,
+                    "BottomMargin": 113.5625,
+                    "Tag": 235,
+                    "ActionTag": -320602119,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 54.0
+                    },
+                    "Name": "itemJackpot_2_3_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "Người chơi thực hiện 3 bước để chơi:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.573,
+                      "Y": 104.1325
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0544,
+                      "Y": 0.1568
+                    },
+                    "PreSize": {
+                      "X": 0.8831,
+                      "Y": 0.0407
+                    },
+                    "LeftMargin": 39.573,
+                    "RightMargin": 45.427,
+                    "TopMargin": 546.3675,
+                    "BottomMargin": 90.6325,
+                    "Tag": 236,
+                    "ActionTag": 1127022980,
+                    "Size": {
+                      "X": 642.0,
+                      "Y": 27.0
+                    },
+                    "Name": "Text_3_1_0_0_0_1_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 956147234,
+                "Size": {
+                  "X": 727.0,
+                  "Y": 507.0
+                },
+                "Name": "ScrollView_1",
+                "ctype": "ScrollViewObjectData"
+              }
+            ],
+            "ActionTag": 927533611,
+            "Size": {
+              "X": 1920.0,
+              "Y": 1080.0
+            },
+            "Name": "pnHelpSlot",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../../../res/Default/Sprite.png",
+        "../../Font/Roboto-Bold.ttf",
+        "../../Font/UTM-PenumbraBold.ttf",
+        "../../Font/Roboto-Bold.ttf",
+        "../../Font/UTM_AvoBold.ttf",
+        "../slot_thienha.plist",
+        "../slot_thienha.png",
+        "../item/slot_thienha_item.plist",
+        "../item/slot_thienha_item.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

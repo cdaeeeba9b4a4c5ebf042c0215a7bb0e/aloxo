@@ -1,0 +1,55 @@
+
+TLMN_icon.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tlmmm
+  rotate: false
+  xy: 1, 1
+  size: 190, 370
+  orig: 192, 370
+  offset: 2, 0
+  index: -1
+Untitled-5
+  rotate: false
+  xy: 193, 184
+  size: 187, 140
+  orig: 187, 140
+  offset: 0, 0
+  index: -1
+Untitled-61
+  rotate: false
+  xy: 193, 326
+  size: 224, 106
+  orig: 224, 106
+  offset: 0, 0
+  index: -1
+Untitled-8
+  rotate: false
+  xy: 193, 1
+  size: 225, 181
+  orig: 225, 181
+  offset: 0, 0
+  index: -1
+Untitled-7
+  rotate: false
+  xy: 382, 184
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 382, 286
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Untitled-6
+  rotate: false
+  xy: 405, 286
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+nohu2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 1983, 933
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+Layer 16 copy
+  rotate: false
+  xy: 2, 45
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Layer 16 copy 10
+  rotate: true
+  xy: 2, 2
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+Layer 16 copy 11
+  rotate: false
+  xy: 753, 404
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Layer 16 copy 3
+  rotate: false
+  xy: 1857, 663
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Layer 16 copy 4
+  rotate: false
+  xy: 44, 54
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Layer 16 copy 5
+  rotate: false
+  xy: 1983, 900
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Layer 16 copy 6
+  rotate: true
+  xy: 1983, 844
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Layer 16 copy 7
+  rotate: false
+  xy: 2019, 894
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Layer 16 copy 8
+  rotate: false
+  xy: 793, 455
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Layer 16 copy 9
+  rotate: false
+  xy: 1983, 869
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 911, 303
+  size: 417, 323
+  orig: 417, 323
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 2, 486
+  size: 907, 486
+  orig: 907, 486
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 911, 628
+  size: 578, 344
+  orig: 578, 344
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 753, 439
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: false
+  xy: 1491, 660
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 1566, 458
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Layer 26
+  rotate: false
+  xy: 2019, 857
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 1566, 495
+  size: 289, 205
+  orig: 289, 205
+  offset: 0, 0
+  index: -1
+no
+  rotate: true
+  xy: 1330, 301
+  size: 325, 234
+  orig: 325, 234
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 92
+  size: 749, 392
+  orig: 749, 392
+  offset: 0, 0
+  index: -1
+thanglon
+  rotate: false
+  xy: 1491, 702
+  size: 490, 270
+  orig: 490, 270
+  offset: 0, 0
+  index: -1

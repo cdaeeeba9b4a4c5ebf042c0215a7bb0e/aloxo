@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>X2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,276},{45,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{45,31}}</string>
+				<key>sourceSize</key>
+				<string>{45,31}</string>
+			</dict>
+
+			<key>coming_soon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,0},{161,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{161,55}}</string>
+				<key>sourceSize</key>
+				<string>{161,55}</string>
+			</dict>
+
+			<key>coming_soon_slot.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{215,403}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{215,403}}</string>
+				<key>sourceSize</key>
+				<string>{215,403}</string>
+			</dict>
+
+			<key>dang_quay_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,112},{160,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{160,52}}</string>
+				<key>sourceSize</key>
+				<string>{160,52}</string>
+			</dict>
+
+			<key>dang_quay_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,165},{160,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{160,52}}</string>
+				<key>sourceSize</key>
+				<string>{160,52}</string>
+			</dict>
+
+			<key>dung_click.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,247},{88,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{88,28}}</string>
+				<key>sourceSize</key>
+				<string>{88,28}</string>
+			</dict>
+
+			<key>dung_nor.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,218},{88,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{88,28}}</string>
+				<key>sourceSize</key>
+				<string>{88,28}</string>
+			</dict>
+
+			<key>dung_quay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,56},{161,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{161,55}}</string>
+				<key>sourceSize</key>
+				<string>{161,55}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{378,404}</string>
+			<key>textureFileName</key>
+			<string>PlistMenuSlots.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistMenuSlots.png</string>
+			</dict>
+		</dict>
+</plist>

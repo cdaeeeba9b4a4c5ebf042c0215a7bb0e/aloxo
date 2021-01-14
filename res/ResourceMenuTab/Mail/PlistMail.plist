@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>IconMail.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,146},{46,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{46,46}}</string>
+				<key>sourceSize</key>
+				<string>{46,46}</string>
+			</dict>
+
+			<key>IconMail_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,99},{46,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{46,46}}</string>
+				<key>sourceSize</key>
+				<string>{46,46}</string>
+			</dict>
+
+			<key>btnBin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,193},{45,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{45,59}}</string>
+				<key>sourceSize</key>
+				<string>{45,59}</string>
+			</dict>
+
+			<key>btn_readmail.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{931,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{931,98}}</string>
+				<key>sourceSize</key>
+				<string>{931,98}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{932,253}</string>
+			<key>textureFileName</key>
+			<string>PlistMail.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistMail.png</string>
+			</dict>
+		</dict>
+</plist>

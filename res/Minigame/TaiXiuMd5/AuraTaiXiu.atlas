@@ -1,0 +1,13 @@
+
+AuraTaiXiu.png
+size: 241,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_md5_aura
+  rotate: false
+  xy: 1, 1
+  size: 238, 195
+  orig: 250, 250
+  offset: 12, 32
+  index: -1
