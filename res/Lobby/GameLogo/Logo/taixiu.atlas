@@ -1,0 +1,97 @@
+
+taixiu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taixiu
+  rotate: false
+  xy: 1, 1
+  size: 190, 370
+  orig: 192, 370
+  offset: 2, 0
+  index: -1
+Char/red light
+  rotate: false
+  xy: 1, 373
+  size: 113, 119
+  orig: 113, 119
+  offset: 0, 0
+  index: -1
+Char/red 1
+  rotate: false
+  xy: 450, 399
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+Char/black  light
+  rotate: false
+  xy: 348, 253
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+Char/black
+  rotate: false
+  xy: 348, 399
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+Char/blue light
+  rotate: false
+  xy: 193, 253
+  size: 153, 157
+  orig: 153, 157
+  offset: 0, 0
+  index: -1
+Char/blue
+  rotate: false
+  xy: 445, 1
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+Fx/Energy_01
+  rotate: false
+  xy: 540, 399
+  size: 86, 76
+  orig: 86, 76
+  offset: 0, 0
+  index: -1
+Fx/Energy_06
+  rotate: false
+  xy: 193, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Fx/Energy_05
+  rotate: false
+  xy: 628, 399
+  size: 111, 56
+  orig: 111, 56
+  offset: 0, 0
+  index: -1
+Fx/Energy_04
+  rotate: false
+  xy: 220, 412
+  size: 116, 66
+  orig: 116, 66
+  offset: 0, 0
+  index: -1
+Fx/Energy_02
+  rotate: false
+  xy: 116, 412
+  size: 102, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+Fx/Energy_03
+  rotate: false
+  xy: 445, 116
+  size: 103, 115
+  orig: 103, 115
+  offset: 0, 0
+  index: -1

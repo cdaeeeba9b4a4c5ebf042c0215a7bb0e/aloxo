@@ -1,0 +1,48 @@
+
+khobau.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kho_bau
+  rotate: false
+  xy: 281, 321
+  size: 192, 370
+  orig: 192, 370
+  offset: 0, 0
+  index: -1
+Rectangle 1
+  rotate: false
+  xy: 265, 602
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+3f608b74cd977ed3920acac2707b9e7aac37e5623efa0-uxoyxP_fw658
+  rotate: false
+  xy: 1, 321
+  size: 278, 279
+  orig: 278, 279
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: false
+  xy: 1, 1
+  size: 391, 318
+  orig: 391, 318
+  offset: 0, 0
+  index: -1
+Layer 26
+  rotate: false
+  xy: 394, 1
+  size: 82, 183
+  orig: 82, 183
+  offset: 0, 0
+  index: -1
+Group 1
+  rotate: false
+  xy: 1, 602
+  size: 262, 142
+  orig: 262, 142
+  offset: 0, 0
+  index: -1

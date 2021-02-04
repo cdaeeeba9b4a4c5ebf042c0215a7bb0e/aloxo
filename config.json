@@ -1,0 +1,20 @@
+{
+    "name": "sun.win",
+    "appName": "web.sun.win",
+    "bundleId": "web.sun.win",
+    "landingPage": "https://sun.game",
+    "description": "SunWin",
+    "version": "1.1.0_Build_06112019_024416",
+    "uiDomain": "https://xsunfb.com",
+    "fbDomain": "https://fba.clicktoplay.online",
+    "download": {
+        "ios": "https://sieugame.xyz/caidat.php?t=",
+        "android": "https://sieugame.xyz/android.html?t="
+    },
+    "gameRulesURL": "https://sun.luatchoi.club/luat-choi?x=1",
+    "isMerchant": false,
+    "encryptKey": "$2y$10$h1ReYJStnFLyO3MvV7",
+    "hostDomain": "https://cfg.swinamz.com/",
+    "apiDomain": "https://api.swinamz.com/",
+    "resDomain": "https://cfg.swinamz.com/images/"
+}

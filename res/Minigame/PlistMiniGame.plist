@@ -1,181 +1,243 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>res/Minigame/cao_thap.png</key>
+			<key>bau_cua.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{339,438},{67,68}}</string>
+				<string>{{591,686},{67,82}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,0},{67,82}}</string>
 				<key>sourceSize</key>
-				<string>{67,68}</string>
+				<string>{69,85}</string>
 			</dict>
-			<key>res/Minigame/coomingsoon.png</key>
+
+			<key>hop_thu.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{267,352},{83,84}}</string>
+				<string>{{506,459},{71,58}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,0},{71,58}}</string>
 				<key>sourceSize</key>
-				<string>{83,84}</string>
+				<string>{72,58}</string>
 			</dict>
-			<key>res/Minigame/cua.png</key>
+
+			<key>kim_cuong.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{408,382},{67,68}}</string>
+				<string>{{499,711},{91,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,0},{91,78}}</string>
 				<key>sourceSize</key>
-				<string>{67,68}</string>
+				<string>{93,78}</string>
 			</dict>
-			<key>res/Minigame/mail.png</key>
+
+			<key>kim_cuong_icon.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{408,1},{74,75}}</string>
+				<string>{{506,395},{83,63}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{83,63}}</string>
 				<key>sourceSize</key>
-				<string>{74,75}</string>
+				<string>{83,63}</string>
 			</dict>
-			<key>res/Minigame/mini_poke.png</key>
+
+			<key>mini_game_aura.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{408,77},{74,75}}</string>
+				<string>{{401,628},{100,82}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,9},{100,82}}</string>
 				<key>sourceSize</key>
-				<string>{74,75}</string>
+				<string>{100,100}</string>
 			</dict>
-			<key>res/Minigame/minigame-01.png</key>
+
+			<key>mini_game_bg.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{158,352},{107,107}}</string>
+				<string>{{401,527},{100,100}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{100,100}}</string>
 				<key>sourceSize</key>
-				<string>{107,107}</string>
+				<string>{100,100}</string>
 			</dict>
-			<key>res/Minigame/minigame-02.png</key>
+
+			<key>mini_poker.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,352},{155,155}}</string>
+				<string>{{401,451},{104,75}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{104,75}}</string>
 				<key>sourceSize</key>
-				<string>{155,155}</string>
+				<string>{104,78}</string>
 			</dict>
-			<key>res/Minigame/poke_ball.png</key>
+
+			<key>mini_poker_icon.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{267,438},{70,70}}</string>
+				<string>{{401,395},{104,55}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{104,55}}</string>
 				<key>sourceSize</key>
-				<string>{70,70}</string>
+				<string>{104,55}</string>
 			</dict>
-			<key>res/Minigame/tai_xiu.png</key>
+
+			<key>minigame_background.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{408,153},{74,75}}</string>
+				<string>{{0,0},{730,394}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{730,394}}</string>
 				<key>sourceSize</key>
-				<string>{74,75}</string>
+				<string>{730,394}</string>
 			</dict>
-			<key>res/Minigame/thong_bao.png</key>
+
+			<key>tai_xiu.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{158,487},{33,24}}</string>
+				<string>{{502,527},{96,88}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{96,88}}</string>
 				<key>sourceSize</key>
-				<string>{33,24}</string>
+				<string>{96,91}</string>
 			</dict>
-			<key>res/Minigame/time.png</key>
+
+			<key>tai_xiu_md5_icon.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{158,461},{56,24}}</string>
+				<string>{{401,711},{97,75}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{97,75}}</string>
 				<key>sourceSize</key>
-				<string>{56,24}</string>
+				<string>{98,78}</string>
 			</dict>
-			<key>res/Minigame/vin_miss.png</key>
+
+			<key>thong_bao.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{408,229},{74,75}}</string>
+				<string>{{593,616},{32,32}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{32,32}}</string>
 				<key>sourceSize</key>
-				<string>{74,75}</string>
+				<string>{32,32}</string>
 			</dict>
-			<key>res/Minigame/vong_quay.png</key>
+
+			<key>time.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{352,305},{74,75}}</string>
+				<string>{{578,486},{40,40}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{40,40}}</string>
 				<key>sourceSize</key>
-				<string>{74,75}</string>
+				<string>{40,40}</string>
 			</dict>
-			<key>res/Minigame/vong_to.png</key>
+
+			<key>tren_duoi.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,1},{349,349}}</string>
+				<string>{{590,395},{80,90}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{80,90}}</string>
 				<key>sourceSize</key>
-				<string>{349,349}</string>
+				<string>{81,93}</string>
 			</dict>
+
+			<key>vong_quay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{502,616},{90,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{90,69}}</string>
+				<key>sourceSize</key>
+				<string>{90,69}</string>
+			</dict>
+
+			<key>vong_to.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,395},{400,400}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{400,400}}</string>
+				<key>sourceSize</key>
+				<string>{400,400}</string>
+			</dict>
+
 		</dict>
+
 		<key>metadata</key>
 		<dict>
 			<key>format</key>
 			<integer>2</integer>
+			<key>size</key>
+			<string>{731,796}</string>
 			<key>textureFileName</key>
 			<string>PlistMiniGame.png</string>
-			<key>realTextureFileName</key>
-			<string>PlistMiniGame.png</string>
-			<key>size</key>
-			<string>{512,512}</string>
+			</dict>
 		</dict>
-		<key>texture</key>
-		<dict>
-			<key>width</key>
-			<integer>512</integer>
-			<key>height</key>
-			<integer>512</integer>
-		</dict>
-	</dict>
 </plist>
