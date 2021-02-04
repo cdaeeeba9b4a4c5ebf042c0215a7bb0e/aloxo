@@ -4,6 +4,28 @@
 	<dict>
 		<key>frames</key>
 		<dict>
+			<key>res/Minigame/ResSlotBa/btn_sieutoc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{878,735},{45,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{45,45}</string>
+			</dict>
+			<key>res/Minigame/ResSlotBa/btn_sieutoc_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{878,783},{45,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{45,45}</string>
+			</dict>
 			<key>res/Minigame/ResSlotBa/btn_tuquay.png</key>
 			<dict>
 				<key>frame</key>

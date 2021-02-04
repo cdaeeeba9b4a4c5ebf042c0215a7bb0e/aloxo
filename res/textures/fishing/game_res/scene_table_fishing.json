@@ -301,43 +301,6 @@
               "Path": "textures/fishing/game_res/fish_bg.jpg",
               "Plist": ""
             },
-            "AnchorPoint": {
-              "ScaleX": 0.5,
-              "ScaleY": 0.5
-            },
-            "Position": {
-              "X": 640,
-              "Y": 360
-            },
-            "Scale": {
-              "ScaleX": 1,
-              "ScaleY": 1
-            },
-            "CColor": {},
-            "IconVisible": false,
-            "PrePosition": {
-              "X": 0,
-              "Y": 0
-            },
-            "PreSize": {
-              "X": 1.0,
-              "Y": 1.0
-            },
-            "Tag": 57,
-            "ActionTag": -1350256281,
-            "Size": {
-              "X": 1920.0,
-              "Y": 1080.0
-            },
-            "Name": "bg",
-            "ctype": "ImageViewObjectData"
-          },
-          {
-            "FileData": {
-              "Type": "Normal",
-              "Path": "textures/fishing/game_res/fish_bg.jpg",
-              "Plist": ""
-            },
             "Scale9OriginX": 633,
             "Scale9OriginY": 356,
             "Scale9Width": 654,
