@@ -106,13 +106,35 @@
 			<key>res/Minigame/ResMiniPoker/btntuquay.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{473,314},{141,31}}</string>
+				<string>{{473,407},{141,31}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
 				<string>{141,31}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/btnsieutoc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{465,314},{45,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{45,45}</string>
+			</dict>
+			<key>res/Minigame/ResMiniPoker/btnsieutoc_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{465,362},{45,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{45,45}</string>
 			</dict>
 			<key>res/Minigame/ResMiniPoker/dungquay.png</key>
 			<dict>

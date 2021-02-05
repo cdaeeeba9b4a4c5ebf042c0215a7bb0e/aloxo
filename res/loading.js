@@ -56,15 +56,14 @@
         animation()
     };
     (function () {
-        // var bgColor = document.body.style.background;
-        document.body.style.background = "#000000 url('res/Lobby/logo256x256.png') no-repeat center center";
+        var bgColor = document.body.style.background;
+        document.body.style.background = "#000000 url('res/Lobby/bg2.png') no-repeat center center";
         // document.body.style.height = "1280px";
         // document.body.style.width = "720px";
-        // var style = document.createElement("style");
-        // style.type = "text/css";
-        // style.innerHTML = createStyle();
-        // document.head.appendChild(style);
-        // debugger
+        var style = document.createElement("style");
+        style.type = "text/css";
+        style.innerHTML = createStyle();
+        document.head.appendChild(style);
         //var list = createDom();
         //startAnimation(list, function () {
         //    var div = document.getElementById("cocosLoading");

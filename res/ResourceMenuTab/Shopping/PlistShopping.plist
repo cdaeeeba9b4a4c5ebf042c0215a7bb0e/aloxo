@@ -147,6 +147,17 @@
 				<key>sourceSize</key>
 				<string>{225,188}</string>
 			</dict>
+			<key>res/ResourceMenuTab/Shopping/fb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{190,544},{225,188}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{225,188}</string>
+			</dict>
 			<key>res/ResourceMenuTab/Shopping/txt_bank.png</key>
 			<dict>
 				<key>frame</key>
